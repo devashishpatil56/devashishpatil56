@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+This is Devashish. I am a cloud engineer and a python developer. I have experience with the 3 major public cloud platforms, AWS, Azure and GCP. I also have development experience with python, with frameworks such as Django and Flask and Apache Airflow. I am also exploring other technologies such as Kubernetes and Terraform. 
+
+I have a keen interest in Technical writing and I write on https://medium.com/codebyte. 
+
+
 <!--
-**devashishpatil56/devashishpatil56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
