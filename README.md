@@ -2,7 +2,7 @@
 
 This is Devashish. I am a cloud engineer and a python developer. I have experience with the 3 major public cloud platforms, AWS, Azure and GCP. I also have development experience with python, with frameworks such as Django and Flask and Apache Airflow. I am also exploring other technologies such as Kubernetes and Terraform. 
 
-I have a keen interest in Technical writing and I write on https://medium.com/codebyte. 
+I have a keen interest in Technical writing and I write on my medium publication: [CodeByte](https://medium.com/codebyte)
 
 
 <!--
